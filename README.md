@@ -1,15 +1,19 @@
-# Basic Sample Hardhat Project
+# NFT MARKETPLACE SMART CONTRACT BUILT IN SOLIDITY 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates how to create and test a simple smart contract for an NFT marketplace.
 
-Try running some of the following tasks:
+Do the following to get it on your computer 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
+```
+git clone https://github.com/Merdi-kim/cyrrus-contract.git
+```
+
+```
+git install
+```
+
+Then, in order to spin up a local blockchain node, run the following
+
+```
 npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
 ```
