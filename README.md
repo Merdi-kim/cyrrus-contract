@@ -8,6 +8,8 @@ Do the following to get it on your computer
 git clone https://github.com/Merdi-kim/cyrrus-contract.git
 ```
 
+Next step, you should navigate in the directory that you have just cloned then run the following to install all your dependecies 
+
 ```
 git install
 ```
