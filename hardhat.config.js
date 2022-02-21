@@ -1,6 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
 const fs = require("fs") 
-const privateKey = fs.readFileSync("secret").trim().toString()
+const privateKey = fs.readFileSync("secret").toString()
 
 // This is a sample Hardhat task. To learn how to create your own go to
 // https://hardhat.org/guides/create-task.html
